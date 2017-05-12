@@ -1,4 +1,4 @@
 /data
 /split_data/
-
+.DS_Store
 *.jpg

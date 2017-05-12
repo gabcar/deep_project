@@ -26,8 +26,6 @@ if not os.path.exists(destination + '/no_smiling'):
 if not os.path.exists(destination + '/smiling'):
     os.makedirs(destination + '/smiling')
 
-
-
 i = 1
 for line in training_file:
 	line_list = line.split(',')
